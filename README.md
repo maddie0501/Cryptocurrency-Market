@@ -34,5 +34,3 @@ Track real-time prices, explore market trends, and ⭐ your favorite coins to ke
 
 ---
 
-## 📂 Project Structure
-
